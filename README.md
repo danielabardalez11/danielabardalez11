@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFCAE4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=F10291"/>
 
 <div align="center">
   <p>Hey Everyone!</p>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=FFCAE4&width=900&size=30&center=true&lines=Hello!+My+name+is+Daniela;I+am+from+Argentina;I'm+a+student+of+Software+Development;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=F10291&width=900&size=30&center=true&lines=Hello!+My+name+is+Daniela;I+am+from+Argentina;I'm+a+student+of+Software+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
