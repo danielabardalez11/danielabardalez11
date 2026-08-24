@@ -41,8 +41,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CS.svg" />  
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg" />  
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />  
-
-
 </div>
 <br>
 <br>
@@ -52,6 +50,5 @@
 </div>
 
 <br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F10291&height=110&section=footer"/>
 <br>
