@@ -15,7 +15,7 @@
   | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielabardalez11&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielabardalez11&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielabardalez11&theme=jolly&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielabardalez11&theme=jolly)| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danielabardalez11&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielabardalez11&theme=jolly)| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danielabardalez11&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
